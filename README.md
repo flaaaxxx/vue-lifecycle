@@ -1,6 +1,6 @@
 # vue-lifecycle
 
-## Project setup
+## Lifecycle of components
 ```
 npm install
 ```
